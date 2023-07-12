@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-## Documentação da API - Futuras Atualizações
+## Documentação da API
 
 <p align="left"> 
   Consulta Informações por Placa do Carro - API / ASP.NET / WebApi.<br>
